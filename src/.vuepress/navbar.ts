@@ -23,8 +23,8 @@ export default navbar([
     ],
   },
   {
-    text: "V2 文档",
+    text: "信奥赛OJ系统",
     icon: "book",
-    link: "https://theme-hope.vuejs.press/zh/",
+    link: "https://oj.daima101.com",
   },
 ]);
