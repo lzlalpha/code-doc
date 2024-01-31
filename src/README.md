@@ -94,7 +94,7 @@ highlights:
       - title: 信奥赛OJ系统
         icon: code
         details: 丰富题库、练题刷题
-        link: https://theme-hope.vuejs.press/zh/guide/markdown/attrs.html
+        link: https://oj.daima101.com
 
 
   - header: 全年龄段知识体系
