@@ -21,8 +21,8 @@ actions:
 highlights:
   - header: 热爱编程
     image: /assets/image/coding1.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/10-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/10-dark.svg
     highlights:
       - title: 编程是一种艺术，它能让你感受到生活中的美好。
       - title: 编程是我的梦想，我要把它实现。
@@ -30,11 +30,10 @@ highlights:
   - header: 在知识库中找到你要学习的内容
     description: 我们收集了适合青少儿编程的各种编程语言知识。
     image: /assets/image/fenlei.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/10-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/10-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
     bgImageStyle:
-      background-repeat: repeat
-      background-size: initial
+      background-attachment: fixed
     features:
       - title: C++ 基础语法
         icon: gears
@@ -100,8 +99,8 @@ highlights:
   - header: 全年龄段知识体系
     description: 注重年龄特点、科学培养体系。
     image: /assets/image/layout.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/9-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/9-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/10-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/10-dark.svg
     highlights:
       - title: 符号化编程
         icon: object-group
@@ -130,8 +129,8 @@ highlights:
 
   - header: 一体化平台
     image: /assets/image/features.svg
-    bgImage: https://theme-hope-assets.vuejs.press/bg/3-light.svg
-    bgImageDark: https://theme-hope-assets.vuejs.press/bg/3-dark.svg
+    bgImage: https://theme-hope-assets.vuejs.press/bg/6-light.svg
+    bgImageDark: https://theme-hope-assets.vuejs.press/bg/6-dark.svg
     features:
       - title: 代码龙少儿编程
         icon: comment-dots
