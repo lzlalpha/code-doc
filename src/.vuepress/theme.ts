@@ -55,7 +55,7 @@ export default hopeTheme({
     // },
     comment: {
       provider: "Waline",
-      serverURL: "https://waline-git-main-lzlalpha.vercel.app/", // your server url
+      serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
     },
 
     components: {
