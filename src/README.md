@@ -10,13 +10,10 @@ bgImageStyle:
 heroText: 代码101编程知识库
 tagline: 积累和分享青少儿编程知识。
 actions:
-  - text: 使用指南
+  - text: C++ 信奥赛
     icon: lightbulb
-    link: ./demo/
+    link: ./cpp/
     type: primary
-
-  - text: 编程知识库
-    link: ./guide/
 
 highlights:
   - header: 热爱编程
@@ -158,5 +155,5 @@ highlights:
         link: https://doc.daima101.com
 
 copyright: false
-footer: 版权所有 © 2023-代码龙少儿编程
+footer: 版权所有 © 2024 代码101
 ---
