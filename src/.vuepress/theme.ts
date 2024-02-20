@@ -5,16 +5,16 @@ import sidebar from "./sidebar.js";
 export default hopeTheme({
   hostname: "https://doc.daima101.com",
 
-  author: {
-    name: "代码101",
-    url: "https://www.daima101.com",
-  },
+  // author: {
+  //   name: "代码101",
+  //   url: "https://www.daima101.com",
+  // },
 
   iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.png",
 
-  repo: "lzlalpha/doc",
+  repo: "lzlalpha/code-doc",
 
   docsDir: "src",
 
