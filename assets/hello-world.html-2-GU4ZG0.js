@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-x3n3nnut.js";import{o,c as t,d as l}from"./app-KIMCU0vR.js";const c={},r=l("p",null,"第一篇代码...",-1),_=[r];function s(n,a){return o(),t("div",null,_)}const i=e(c,[["render",s],["__file","hello-world.html.vue"]]);export{i as default};
