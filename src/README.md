@@ -15,7 +15,7 @@ actions:
     link: ./demo/
     type: primary
 
-  - text: 文档
+  - text: 编程知识库
     link: ./guide/
 
 highlights:

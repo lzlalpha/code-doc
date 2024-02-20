@@ -1,5 +1,5 @@
 ---
-title: C++信奥赛
+title: 进阶语法
 icon: lightbulb
 ---
 
