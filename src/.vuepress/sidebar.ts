@@ -13,7 +13,7 @@ export default sidebar({
     {
       text: "编程知识库",
       icon: "book",
-      prefix: "guide/",
+      prefix: "cpp/",
       children: "structure",
     },
     // {
