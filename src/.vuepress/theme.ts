@@ -3,10 +3,10 @@ import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://doc.daima101.com",
 
   author: {
-    name: "CodeLiu",
+    name: "代码101",
     url: "https://www.daima101.com",
   },
 
