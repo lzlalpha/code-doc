@@ -50,13 +50,13 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     // 你应该自行生成自己的评论服务
-    // comment: {
-    //   provider: "Giscus",
-    //   repo: "vuepress-theme-hope/giscus-discussions",
-    //   repoId: "R_kgDOG_Pt2A",
-    //   category: "Announcements",
-    //   categoryId: "DIC_kwDOG_Pt2M4COD69",
-    // },
+    comment: {
+      provider: "Giscus",
+      repo: "lzlalpha/code-doc",
+      repoId: "R_kgDOLLe9ng",
+      category: "Announcements",
+      categoryId: "DIC_kwDOLLe9ns4Cc0_v",
+    },
     // comment: {
     //   provider: "Waline",
     //   serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
