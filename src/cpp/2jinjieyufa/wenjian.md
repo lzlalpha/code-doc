@@ -84,8 +84,8 @@ fclose(stdout);
 ### 常用模板
 
 ```cpp
-#include <cstdio>
 #include <iostream>
+using namespace std;
 
 int main(void) {
   freopen("data.in", "r", stdin);

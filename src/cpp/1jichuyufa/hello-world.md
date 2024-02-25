@@ -10,11 +10,8 @@ icon: code
 
 注：请在编写前注意开启英文输入法。
 
-C++ 语言
-
 ``` cpp
 #include <iostream>  // 引用头文件
-
 using namespace std; // 引入命名空间
 
 int main() {                // 定义 main 函数

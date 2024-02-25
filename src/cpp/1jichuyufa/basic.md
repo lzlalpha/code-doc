@@ -8,8 +8,8 @@ icon: comment
 如果你不想深究背后的原理，初学时可以直接将这个「框架」背下来：
 
 ```cpp
-#include <cstdio>
 #include <iostream>
+using namespace std;
 
 int main() {
   // 编写代码区

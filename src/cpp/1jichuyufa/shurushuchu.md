@@ -30,7 +30,8 @@ std 是 C++ 标准库所使用的 **命名空间**。使用命名空间是为了
 
 
 ```cpp
-#include <cstdio>
+#include <iostream>
+using namespace std;
 
 int main() {
   int x, y;
