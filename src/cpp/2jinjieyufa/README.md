@@ -1,7 +1,7 @@
 ---
 title: 进阶语法
 order: 20
-icon: dice-two
+icon: play
 ---
 
 <AutoCatalog />

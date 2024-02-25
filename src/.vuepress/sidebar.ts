@@ -9,13 +9,13 @@ export default sidebar({
       prefix: "cpp/",
       children: "structure",
     },
-    {
-      text: "演示案例",
-      icon: "laptop-code",
-      prefix: "demo/",
-      link: "demo/",
-      children: "structure",
-    },
+    // {
+    //   text: "演示案例",
+    //   icon: "laptop-code",
+    //   prefix: "demo/",
+    //   link: "demo/",
+    //   children: "structure",
+    // },
     // {
     //   text: "幻灯片",
     //   icon: "person-chalkboard",
