@@ -1,7 +1,7 @@
 ---
 title: 经典算法
 order: 30
-icon: lightbulb
+icon: dice-three
 ---
 
 <AutoCatalog />

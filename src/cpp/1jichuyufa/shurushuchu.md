@@ -1,7 +1,7 @@
 ---
 title: 输入输出
 order: 40
-icon: circle-info
+icon: print
 ---
 ## `cin` 与 `cout`
 
@@ -17,7 +17,7 @@ int main() {
 ```
 
 ::: info 什么是变量？
-可以参考 [变量](./var.md) 页面。
+可以参考 [变量](./bianliang.md) 页面。
 :::
 
 ::: info 什么是 `std`？

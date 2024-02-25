@@ -1,7 +1,7 @@
 ---
 title: Hello, World!
 order: 20
-icon: circle-info
+icon: code
 ---
 
 ## 第一份代码
@@ -12,7 +12,7 @@ icon: circle-info
 
 C++ 语言
 
-```c++
+``` cpp
 #include <iostream>  // 引用头文件
 
 using namespace std; // 引入命名空间
