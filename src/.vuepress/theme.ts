@@ -63,9 +63,7 @@ export default hopeTheme({
       serverURL: "https://doc-comment.daima101.com"
     },
     // 搜索插件
-    // searchPro: {
-    //   indexContent: true,
-    // },
+    searchPro: true,
 
     components: {
       components: ["Badge", "VPCard"],
