@@ -50,17 +50,17 @@ export default hopeTheme({
   // 在这里配置主题提供的插件
   plugins: {
     // 你应该自行生成自己的评论服务
-    comment: {
-      provider: "Giscus",
-      repo: "lzlalpha/code-doc",
-      repoId: "R_kgDOLLe9ng",
-      category: "Announcements",
-      categoryId: "DIC_kwDOLLe9ns4Cc0_v",
-    },
     // comment: {
-    //   provider: "Waline",
-    //   serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
+    //   provider: "Giscus",
+    //   repo: "lzlalpha/code-doc",
+    //   repoId: "R_kgDOLLe9ng",
+    //   category: "Announcements",
+    //   categoryId: "DIC_kwDOLLe9ns4Cc0_v",
     // },
+    comment: {
+      provider: "Waline",
+      serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
+    },
 
     components: {
       components: ["Badge", "VPCard"],
@@ -70,6 +70,8 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
+      // 使用 mathjax 启用 TeX 支持
+      mathjax: true,
       codetabs: true,
       component: true,
       demo: true,
