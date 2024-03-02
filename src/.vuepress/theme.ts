@@ -64,7 +64,7 @@ export default hopeTheme({
     },
     // 搜索插件
     searchPro: {
-      //indexContent: true,
+      indexContent: true,
     },
 
     components: {
