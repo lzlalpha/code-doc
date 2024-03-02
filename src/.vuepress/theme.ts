@@ -49,6 +49,9 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
+    // searchPro: {
+    //   //plugin options here
+    // },
     // 你应该自行生成自己的评论服务
     // comment: {
     //   provider: "Giscus",
@@ -62,13 +65,13 @@ export default hopeTheme({
       //serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
       serverURL: "https://doc-comment.daima101.com"
     },
-    // 搜索插件
-    // searchPro: true,
 
     components: {
       components: ["Badge", "VPCard"],
     },
 
+    // 搜索插件
+    // searchPro: true,
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
