@@ -63,11 +63,12 @@ export default hopeTheme({
       serverURL: "https://doc-comment.daima101.com"
     },
     // 搜索插件
-    searchPro: true,
+    // searchPro: true,
 
     components: {
       components: ["Badge", "VPCard"],
     },
+
 
     // 此处开启了很多功能用于演示，你应仅保留用到的功能。
     mdEnhance: {
