@@ -59,7 +59,8 @@ export default hopeTheme({
     // },
     comment: {
       provider: "Waline",
-      serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
+      //serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
+      serverURL: "https://doc-comment.daima101.com"
     },
 
     components: {
