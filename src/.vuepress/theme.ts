@@ -62,6 +62,10 @@ export default hopeTheme({
       //serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
       serverURL: "https://doc-comment.daima101.com"
     },
+    // 搜索插件
+    searchPro: {
+      //indexContent: true,
+    },
 
     components: {
       components: ["Badge", "VPCard"],
@@ -71,8 +75,6 @@ export default hopeTheme({
     mdEnhance: {
       align: true,
       attrs: true,
-      // 使用 mathjax 启用 TeX 支持
-      mathjax: true,
       codetabs: true,
       component: true,
       demo: true,
@@ -117,7 +119,7 @@ export default hopeTheme({
       // katex: true,
 
       // 在启用之前安装 mathjax-full
-      // mathjax: true,
+      mathjax: true,
 
       // 在启用之前安装 mermaid
       // mermaid: true,
