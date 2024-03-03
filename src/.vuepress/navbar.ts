@@ -4,6 +4,7 @@ export default navbar([
   "/",
   // "/demo/",
   "/cpp/",
+  "/python/",
   // {
   //   text: "C++",
   //   icon: "lightbulb",

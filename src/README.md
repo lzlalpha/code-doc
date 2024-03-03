@@ -35,37 +35,37 @@ highlights:
       - title: C++ 基础语法
         icon: gears
         details: 三大结构，打好基础
-        link: 
+        link: /cpp/1jichuyufa/
 
       - title: C++ 进阶语法
         icon: network-wired
         details: 开启数组，开启思维
-        link:
+        link: /cpp/2jinjieyufa/
 
       - title: C++ 经典算法
         icon: newspaper
         details: 数据结构+算法
-        link:
+        link: /cpp/3jingdiansuanfa/
 
       - title: C++ 数据结构
         icon: flag
         details: 数据结构+算法
-        link:
+        link: /cpp/4shujujiegou/
 
       - title: Python基础语法
         icon: book
         details: 人工智能语言
-        link: 
+        link: /python/1jichuyufa/
 
-      - title: Python 绘图
+      - title: Turtle 绘图
         icon: palette
         details: Turtle绘图
-        link: 
+        link: /python/2huitu/
 
       - title: Python 第三方库
         icon: compass
         details: 人工智能语言
-        link: 
+        link: /python/3disanfangku/
 
       - title: Scratch 积木
         icon: bell
