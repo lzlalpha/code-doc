@@ -49,9 +49,6 @@ export default hopeTheme({
 
   // 在这里配置主题提供的插件
   plugins: {
-    // searchPro: {
-    //   //plugin options here
-    // },
     // 你应该自行生成自己的评论服务
     // comment: {
     //   provider: "Giscus",
@@ -65,6 +62,14 @@ export default hopeTheme({
       //serverURL: "https://waline-git-main-lzlalpha.vercel.app", // your serverURL
       serverURL: "https://doc-comment.daima101.com"
     },
+
+    // docsearch: {
+    //   // 你的选项
+    //   // appId, apiKey 和 indexName 是必填的
+    //   apiKey: "1c2bc680cf6d79aabd77f9158f2d56f8",
+    //   appId: "QPM6LTQFFO",
+    //   indexName: "daima101",
+    // },
 
     components: {
       components: ["Badge", "VPCard"],
