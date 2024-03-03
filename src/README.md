@@ -11,9 +11,13 @@ heroText: 代码101编程知识库
 tagline: 积累和分享青少儿编程知识。
 actions:
   - text: C++ 信奥赛
-    icon: lightbulb
+    icon: trophy
     link: ./cpp/
     type: primary
+
+  - text: Python
+    icon: lightbulb
+    link: ./python/
 
 highlights:
   - header: 热爱编程
